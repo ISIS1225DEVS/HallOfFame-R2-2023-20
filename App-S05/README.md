@@ -1,5 +1,5 @@
 # INTEGRANTES
-Andres Chaparro Diaz, 202111146, a.chaparrod
-Edward Camilo Sánchez Nova, 202113020, e.sanchezn
-Juan Esteban Rojas, 202124797, je.rojasc1
 
+1. Andres Chaparro Diaz, Req. 3
+2. Edward Camilo Sánchez Nova, Req. 4
+3. Juan Esteban Rojas, Req. 5
