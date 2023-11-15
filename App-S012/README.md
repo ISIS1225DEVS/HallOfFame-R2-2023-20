@@ -1,3 +1,5 @@
-# INTEGRANTES
-<!-- aqui van los nombres de los integrantes -->
-TODO
+# Integrantes
+
+1. Carlos Llain
+2. Esteban Trivino
+3. Yohan Gaitan
