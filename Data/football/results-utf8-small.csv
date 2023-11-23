@@ -1,0 +1,721 @@
+date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
+1998-10-04,Tahiti,Fiji,2,4,Oceania Nations Cup,Brisbane,Australia,True
+2022-12-06,Morocco,Spain,0,0,FIFA World Cup,Al Rayyan,Qatar,True
+1962-11-05,Kenya,Uganda,4,1,Friendly,Nairobi,Kenya,False
+2006-09-02,Poland,Finland,1,3,UEFA Euro qualification,Bydgoszcz,Poland,False
+2018-09-08,Mauritania,Burkina Faso,2,0,African Cup of Nations qualification,Nouakchott,Mauritania,False
+2016-11-09,Greece,Belarus,0,1,Friendly,Piraeus,Greece,False
+1999-09-04,Slovakia,Romania,1,5,UEFA Euro qualification,Bratislava,Slovakia,False
+2004-04-28,Latvia,Iceland,0,0,Friendly,Riga,Latvia,False
+2015-11-13,Mauritania,Tunisia,1,2,FIFA World Cup qualification,Nouakchott,Mauritania,False
+2010-09-03,Liechtenstein,Spain,0,4,UEFA Euro qualification,Vaduz,Liechtenstein,False
+2010-03-03,Slovenia,Qatar,4,1,Friendly,Maribor,Slovenia,False
+2007-01-31,Panama,Trinidad and Tobago,2,1,Friendly,Panama City,Panama,False
+1972-11-01,Netherlands,Norway,9,0,FIFA World Cup qualification,Rotterdam,Netherlands,False
+1965-03-17,Wales,Greece,4,1,FIFA World Cup qualification,Cardiff,Wales,False
+1983-09-14,Fiji,Papua New Guinea,2,0,South Pacific Games,Apia,Western Samoa,True
+2017-09-01,Morocco,Mali,6,0,FIFA World Cup qualification,Rabat,Morocco,False
+2011-07-03,Macau,Vietnam,1,7,FIFA World Cup qualification,Macau,Macau,False
+2005-09-03,Burkina Faso,South Africa,3,1,FIFA World Cup qualification,Ouagadougou,Burkina Faso,False
+1983-08-21,Bolivia,Peru,1,1,Copa América,La Paz,Bolivia,False
+1980-11-25,Singapore,Western Australia,1,1,King's Cup,Bangkok,Thailand,True
+2019-03-23,Liechtenstein,Greece,0,2,UEFA Euro qualification,Vaduz,Liechtenstein,False
+2005-06-19,Algeria,Zimbabwe,2,2,FIFA World Cup qualification,Oran,Algeria,False
+1987-03-29,Portugal,Malta,2,2,UEFA Euro qualification,Funchal,Portugal,False
+1938-06-05,Cuba,Romania,3,3,FIFA World Cup,Toulouse,France,True
+1992-11-08,Jamaica,Bermuda,3,2,FIFA World Cup qualification,Kingston,Jamaica,False
+1923-02-04,Belgium,Spain,1,0,Friendly,Antwerp,Belgium,False
+2006-04-04,Pakistan,Tajikistan,0,2,AFC Challenge Cup,Dhaka,Bangladesh,True
+2003-07-04,Gibraltar,Ynys Môn,0,2,Island Games,St. Sampson,Guernsey,True
+2013-06-11,Denmark,Armenia,0,4,FIFA World Cup qualification,Copenhagen,Denmark,False
+2003-06-11,Sweden,Poland,3,0,UEFA Euro qualification,Solna,Sweden,False
+2007-07-02,Argentina,Colombia,4,2,Copa América,Maracaibo,Venezuela,True
+2021-07-20,Panama,Grenada,3,1,Gold Cup,Orlando,United States,True
+2001-10-21,Bahrain,Iran,3,1,FIFA World Cup qualification,Riffa,Bahrain,False
+2011-10-11,Bolivia,Colombia,1,2,FIFA World Cup qualification,La Paz,Bolivia,False
+1977-03-30,England,Luxembourg,5,0,FIFA World Cup qualification,London,England,False
+1997-02-22,Hong Kong,South Korea,0,2,FIFA World Cup qualification,Victoria,Hong Kong,False
+1992-08-29,Nigeria,Uganda,2,0,African Cup of Nations qualification,Lagos,Nigeria,False
+1961-01-16,Grenada,Saint Vincent and the Grenadines,3,6,Windward Islands Tournament,Castries,Saint Lucia,True
+2005-03-30,North Korea,Iran,0,2,FIFA World Cup qualification,Pyongyang,North Korea,False
+1995-06-04,Botswana,Namibia,1,1,African Cup of Nations qualification,Gaborone,Botswana,False
+1955-03-13,Ecuador,Peru,2,4,Copa América,Santiago,Chile,True
+2004-09-04,Burkina Faso,Uganda,2,0,FIFA World Cup qualification,Ouagadougou,Burkina Faso,False
+2000-05-23,Jordan,Kyrgyzstan,2,0,WAFF Championship,Amman,Jordan,False
+2004-09-08,India,Japan,0,4,FIFA World Cup qualification,Calcutta,India,False
+1993-01-17,Benin,Tunisia,0,5,FIFA World Cup qualification,Cotonou,Benin,False
+1983-10-12,Republic of Ireland,Netherlands,2,3,UEFA Euro qualification,Dublin,Republic of Ireland,False
+1996-11-01,Honduras,Colombia,1,2,Friendly,New York,United States,True
+1964-07-17,Cameroon,Congo,3,1,Friendly,Yaoundé,Cameroon,False
+1993-05-18,Saudi Arabia,Kuwait,2,0,FIFA World Cup qualification,Taif,Saudi Arabia,False
+1984-12-09,India,China PR,0,3,AFC Asian Cup,Kallang,Singapore,True
+2012-06-06,Solomon Islands,New Zealand,1,1,Oceania Nations Cup,Honiara,Solomon Islands,False
+1974-12-29,Malawi,Tanzania,1,1,Friendly,Lilongwe,Malawi,False
+2022-06-02,Israel,Iceland,2,2,UEFA Nations League,Haifa,Israel,False
+1955-03-23,Ecuador,Uruguay,1,5,Copa América,Santiago,Chile,True
+2013-03-24,Ghana,Sudan,4,0,FIFA World Cup qualification,Kumasi,Ghana,False
+2022-06-11,England,Italy,0,0,UEFA Nations League,Wolverhampton,England,False
+2001-04-22,Liberia,Sudan,2,0,FIFA World Cup qualification,Paynesville,Liberia,False
+1997-04-11,Kuwait,Iran,0,2,Friendly,Kuwait City,Kuwait,False
+1965-08-21,Malaysia,India,0,3,Merdeka Tournament,Ipoh,Malaysia,False
+2021-09-01,Norway,Netherlands,1,1,FIFA World Cup qualification,Oslo,Norway,False
+1967-02-28,France,Corsica,0,2,Friendly,Marseille,France,False
+1994-06-28,Russia,Cameroon,6,1,FIFA World Cup,Palo Alto,United States,True
+2003-09-10,Oman,Bahrain,1,0,Friendly,Muscat,Oman,False
+2009-07-03,Rhodes,Ynys Môn,4,0,Island Games,Eckerö,Sweden,True
+1973-04-15,Zambia,Ethiopia,4,2,FIFA World Cup qualification,Lusaka,Zambia,False
+2019-06-29,Haiti,Canada,3,2,Gold Cup,Houston,United States,True
+2012-12-10,Cuba,French Guiana,2,1,CFU Caribbean Cup,North Sound,Antigua and Barbuda,True
+1938-03-25,Hungary,Greece,11,1,FIFA World Cup qualification,Budapest,Hungary,False
+1989-11-14,United States,Bermuda,2,1,Friendly,Cocoa Beach,United States,False
+2019-09-05,Finland,Greece,1,0,UEFA Euro qualification,Tampere,Finland,False
+2015-09-12,Rwanda,Gabon,0,1,Friendly,Kigali,Rwanda,False
+2004-08-24,Vietnam,India,2,1,Friendly,Ho Chi Minh City,Vietnam,False
+2002-09-06,Czech Republic,Serbia,5,0,Friendly,Prague,Czech Republic,False
+2000-11-15,Brazil,Colombia,1,0,FIFA World Cup qualification,São Paulo,Brazil,False
+1925-11-29,Argentina,Paraguay,2,0,Copa América,Buenos Aires,Argentina,False
+1999-07-25,Mexico,Saudi Arabia,5,1,Confederations Cup,Mexico City,Mexico,False
+2006-10-08,Jamaica,Canada,2,1,Friendly,Kingston,Jamaica,False
+2015-06-16,Hong Kong,Maldives,2,0,FIFA World Cup qualification,Kowloon,Hong Kong,False
+1982-03-20,Bahrain,Kuwait,0,2,Gulf Cup,Abu Dhabi,United Arab Emirates,True
+2017-03-28,France,Spain,0,2,Friendly,Saint-Denis,France,False
+1960-10-16,Taiwan,Vietnam Republic,2,0,AFC Asian Cup,Seoul,South Korea,True
+1967-08-12,Hong Kong,Vietnam Republic,0,5,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+2010-06-19,Ghana,Australia,1,1,FIFA World Cup,Rustenburg,South Africa,True
+1993-01-17,Burundi,Algeria,0,0,FIFA World Cup qualification,Bujumbura,Burundi,False
+1993-04-15,Hungary,Sweden,0,2,Friendly,Budapest,Hungary,False
+1942-07-19,Bulgaria,Germany,0,3,Friendly,Sofia,Bulgaria,False
+1978-07-14,Malaysia,Singapore,6,0,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+2017-06-27,Angola,Tanzania,0,0,COSAFA Cup,Rustenburg,South Africa,True
+1993-06-06,Iran,Pakistan,5,0,Friendly,Tehran,Iran,False
+2017-06-05,Egypt,Libya,1,0,Friendly,New Cairo,Egypt,False
+2001-04-16,Tonga,Fiji,1,8,FIFA World Cup qualification,Coffs Harbour,Australia,True
+1997-08-17,Tunisia,Namibia,4,0,FIFA World Cup qualification,Tunis,Tunisia,False
+2004-10-09,Venezuela,Brazil,2,5,FIFA World Cup qualification,Maracaibo,Venezuela,False
+2023-01-12,Sweden,Iceland,2,1,Friendly,Faro-Loulé,Portugal,True
+2018-05-30,Estonia,Lithuania,2,0,Baltic Cup,Rakvere,Estonia,False
+2012-02-29,Poland,Portugal,0,0,Friendly,Warsaw,Poland,False
+1964-07-04,Malawi,Zambia,0,5,Friendly,Blantyre,Nyasaland,False
+2020-11-14,Mexico,South Korea,3,2,Friendly,Wiener Neustadt,Austria,True
+2008-10-11,Slovenia,Northern Ireland,2,0,FIFA World Cup qualification,Maribor,Slovenia,False
+2006-10-07,Sweden,Spain,2,0,UEFA Euro qualification,Solna,Sweden,False
+1963-08-08,Malaysia,Japan,3,4,Merdeka Tournament,Kuala Lumpur,Malaya,False
+1991-10-09,Austria,Denmark,0,3,UEFA Euro qualification,Vienna,Austria,False
+2017-06-05,Belgium,Czech Republic,2,1,Friendly,Brussels,Belgium,False
+2012-01-28,Botswana,Guinea,1,6,African Cup of Nations,Franceville,Gabon,True
+2010-06-27,Germany,England,4,1,FIFA World Cup,Bloemfontein,South Africa,True
+1924-06-22,Austria,Egypt,3,1,Friendly,Vienna,Austria,False
+2019-03-22,Japan,Colombia,0,1,Kirin Challenge Cup,Yokohama,Japan,False
+1995-08-19,Cook Islands,Wallis Islands and Futuna,2,1,South Pacific Games,Papeete,French Polynesia,True
+1986-09-24,Iceland,Russia,1,1,UEFA Euro qualification,Reykjavík,Iceland,False
+2010-06-23,Australia,Serbia,2,1,FIFA World Cup,Nelspruit,South Africa,True
+1917-09-30,Uruguay,Chile,4,0,Copa América,Montevideo,Uruguay,False
+2023-06-17,Faroe Islands,Czech Republic,0,3,UEFA Euro qualification,Tórshavn,Faroe Islands,False
+2022-02-02,Burkina Faso,Senegal,1,3,African Cup of Nations,Yaoundé,Cameroon,True
+2006-10-11,Slovakia,Germany,1,4,UEFA Euro qualification,Bratislava,Slovakia,False
+2021-09-02,Poland,Albania,4,1,FIFA World Cup qualification,Warsaw,Poland,False
+1995-03-29,Russia,Scotland,0,0,UEFA Euro qualification,Moscow,Russia,False
+2002-10-12,Lithuania,Faroe Islands,2,0,UEFA Euro qualification,Kaunas,Lithuania,False
+2003-06-11,England,Slovakia,2,1,UEFA Euro qualification,Middlesbrough,England,False
+1956-03-12,Haiti,Panama,2,1,Friendly,Port-au-Prince,Haiti,False
+2008-02-06,Jordan,North Korea,0,1,FIFA World Cup qualification,Amman,Jordan,False
+2015-08-26,Lebanon,Iraq,2,3,Friendly,Sidon,Lebanon,False
+1957-10-06,Bolivia,Argentina,2,0,FIFA World Cup qualification,La Paz,Bolivia,False
+2015-03-31,South Korea,New Zealand,1,0,Friendly,Seoul,South Korea,False
+1967-06-18,Czechoslovakia,Turkey,3,0,UEFA Euro qualification,Bratislava,Czechoslovakia,False
+1967-03-08,Honduras,Guatemala,1,1,CONCACAF Championship,Tegucigalpa,Honduras,False
+1939-04-15,Scotland,England,1,2,British Home Championship,Glasgow,Scotland,False
+2004-07-18,Paraguay,Uruguay,1,3,Copa América,Tacna,Peru,True
+2011-07-23,China PR,Laos,7,2,FIFA World Cup qualification,Kunming,China PR,False
+2003-03-28,Jamaica,Martinique,2,2,Gold Cup qualification,Kingston,Jamaica,False
+2012-11-14,Liechtenstein,Malta,0,1,Friendly,Vaduz,Liechtenstein,False
+2016-03-25,Saint Vincent and the Grenadines,Trinidad and Tobago,2,3,FIFA World Cup qualification,Kingstown,Saint Vincent and the Grenadines,False
+1997-06-13,Brazil,Costa Rica,5,0,Copa América,Santa Cruz,Bolivia,True
+1900-02-03,Scotland,Wales,5,2,British Home Championship,Aberdeen,Scotland,False
+2013-06-09,Guinea,Mozambique,6,1,FIFA World Cup qualification,Conakry,Guinea,False
+1973-09-26,Yugoslavia,Hungary,1,1,Friendly,Belgrade,Yugoslavia,False
+1963-03-20,Argentina,Ecuador,4,2,Copa América,Cochabamba,Bolivia,True
+2015-10-11,Gibraltar,Scotland,0,6,UEFA Euro qualification,Faro,Portugal,True
+2000-06-03,Algeria,Guinea,4,0,Friendly,Annaba,Algeria,False
+2007-09-08,Croatia,Estonia,2,0,UEFA Euro qualification,Zagreb,Croatia,False
+1973-05-20,Vietnam Republic,Japan,0,4,FIFA World Cup qualification,Seoul,South Korea,True
+2017-10-08,Germany,Azerbaijan,5,1,FIFA World Cup qualification,Kaiserslautern,Germany,False
+1973-05-06,Albania,Romania,1,4,FIFA World Cup qualification,Tirana,Albania,False
+2020-11-13,Costa Rica,Qatar,1,1,Friendly,Maria Enzersdorf,Austria,True
+1970-11-15,Cyprus,Russia,1,3,UEFA Euro qualification,Nicosia,Cyprus,False
+2007-06-27,Brazil,Mexico,0,2,Copa América,Puerto Ordaz,Venezuela,True
+1984-04-11,Romania,Israel,0,0,Friendly,Oradea,Romania,False
+1942-01-18,Uruguay,Ecuador,7,0,Copa América,Montevideo,Uruguay,False
+1977-10-12,Mexico,El Salvador,3,1,CONCACAF Championship,Mexico City,Mexico,False
+1975-08-20,Peru,Chile,3,1,Copa América,Lima,Peru,False
+1982-05-15,Thailand,Singapore,2,2,King's Cup,Bangkok,Thailand,False
+2019-06-10,Czech Republic,Montenegro,3,0,UEFA Euro qualification,Olomouc,Czech Republic,False
+2015-01-27,South Africa,Ghana,1,2,African Cup of Nations,Mongomo,Equatorial Guinea,True
+1925-07-10,Finland,Austria,1,2,Friendly,Helsinki,Finland,False
+2001-09-06,Bahrain,Thailand,1,1,FIFA World Cup qualification,Riffa,Bahrain,False
+1974-09-25,Denmark,Spain,1,2,UEFA Euro qualification,Copenhagen,Denmark,False
+2003-02-13,El Salvador,Nicaragua,3,0,UNCAF Cup,Panama City,Panama,True
+2017-06-06,Northern Cyprus,South Ossetia,8,0,CONIFA European Football Cup,Kyrenia,Northern Cyprus,False
+1969-05-17,Scotland,Cyprus,8,0,FIFA World Cup qualification,Glasgow,Scotland,False
+1976-03-10,Malta,Libya,2,2,Friendly,Gżira,Malta,False
+1996-12-07,United Arab Emirates,Kuwait,3,2,AFC Asian Cup,Abu Dhabi,United Arab Emirates,False
+1981-04-29,Bulgaria,Norway,1,0,Friendly,Pleven,Bulgaria,False
+2008-10-15,Japan,Uzbekistan,1,1,FIFA World Cup qualification,Saitama,Japan,False
+2002-06-07,Spain,Paraguay,3,1,FIFA World Cup,Jeonju,South Korea,True
+2005-01-26,Ecuador,Panama,2,0,Friendly,Ambato,Ecuador,False
+2019-11-16,Austria,North Macedonia,2,1,UEFA Euro qualification,Vienna,Austria,False
+1977-06-30,Brazil,France,2,2,Friendly,Rio de Janeiro,Brazil,False
+1988-12-03,Australia,Fiji,5,1,FIFA World Cup qualification,Speers Point,Australia,False
+1953-11-21,Haiti,Jamaica,1,0,Friendly,Port-au-Prince,Haiti,False
+1955-06-19,Switzerland,Spain,0,3,Friendly,Geneva,Switzerland,False
+2008-10-11,Sudan,Congo,2,0,FIFA World Cup qualification,Omdurman,Sudan,False
+2009-08-12,Mexico,United States,2,1,FIFA World Cup qualification,Mexico City,Mexico,False
+2018-03-23,Greece,Switzerland,0,1,Friendly,Athens,Greece,False
+2005-06-03,Saudi Arabia,Kuwait,3,0,FIFA World Cup qualification,Riyadh,Saudi Arabia,False
+2001-05-28,Thailand,Pakistan,6,0,FIFA World Cup qualification,Bangkok,Thailand,False
+1985-03-29,Panama,Guatemala,0,0,Friendly,Panama City,Panama,False
+2022-01-09,Cameroon,Burkina Faso,2,1,African Cup of Nations,Yaoundé,Cameroon,False
+2013-06-23,Eswatini,Angola,0,1,African Nations Championship,Lobamba,Eswatini,False
+2015-01-17,Oman,Kuwait,1,0,AFC Asian Cup,Newcastle,Australia,True
+1997-04-30,Italy,Poland,3,0,FIFA World Cup qualification,Naples,Italy,False
+2015-07-02,Menorca,Guernsey,1,2,Island Games,St. Helier,Jersey,True
+1995-04-22,Tanzania,Egypt,1,2,African Cup of Nations qualification,Dar es Salaam,Tanzania,False
+2001-07-16,Uruguay,Costa Rica,1,1,Copa América,Medellín,Colombia,True
+2021-06-12,Haiti,Canada,0,1,FIFA World Cup qualification,Port-au-Prince,Haiti,False
+1984-12-05,Singapore,China PR,0,2,AFC Asian Cup,Kallang,Singapore,False
+1973-05-26,South Korea,Hong Kong,3,1,FIFA World Cup qualification,Seoul,South Korea,False
+2008-06-02,Thailand,Bahrain,2,3,FIFA World Cup qualification,Bangkok,Thailand,False
+1960-11-06,South Korea,Japan,2,1,FIFA World Cup qualification,Seoul,South Korea,False
+1970-11-11,Scotland,Denmark,1,0,UEFA Euro qualification,Glasgow,Scotland,False
+1987-03-29,Sudan,Tanzania,1,0,African Cup of Nations qualification,Khartoum,Sudan,False
+2013-11-19,England,Germany,0,1,Friendly,London,England,False
+2013-01-26,Ivory Coast,Tunisia,3,0,African Cup of Nations,Rustenburg,South Africa,True
+2005-10-08,Bosnia and Herzegovina,San Marino,3,0,FIFA World Cup qualification,Zenica,Bosnia and Herzegovina,False
+1960-08-28,Ghana,Nigeria,4,1,FIFA World Cup qualification,Accra,Ghana,False
+1939-02-26,Chile,Paraguay,4,1,Friendly,Santiago,Chile,False
+2010-09-07,North Macedonia,Armenia,2,2,UEFA Euro qualification,Skopje,North Macedonia,False
+2008-03-26,Ivory Coast,Tunisia,0,2,Friendly,Évry/Bondoufle,France,True
+1964-11-04,Italy,Finland,6,1,FIFA World Cup qualification,Genoa,Italy,False
+2001-07-13,Egypt,Namibia,8,2,FIFA World Cup qualification,Alexandria,Egypt,False
+1994-11-16,Scotland,Russia,1,1,UEFA Euro qualification,Glasgow,Scotland,False
+2005-02-09,Venezuela,Estonia,3,0,Friendly,Maracaibo,Venezuela,False
+1958-05-09,Tunisia,Libya,4,1,Friendly,Tunis,Tunisia,False
+1962-06-13,Chile,Brazil,2,4,FIFA World Cup,Santiago,Chile,False
+1994-09-03,Tanzania,Uganda,4,0,African Cup of Nations qualification,Dar es Salaam,Tanzania,False
+2015-11-14,Botswana,Mali,2,1,FIFA World Cup qualification,Francistown,Botswana,False
+2008-09-10,Guatemala,Cuba,4,1,FIFA World Cup qualification,Guatemala,Guatemala,False
+2021-03-25,Bulgaria,Switzerland,1,3,FIFA World Cup qualification,Sofia,Bulgaria,False
+2020-10-08,North Macedonia,Kosovo,2,1,UEFA Euro qualification,Skopje,North Macedonia,False
+2015-06-11,Hong Kong,Bhutan,7,0,FIFA World Cup qualification,Kowloon,Hong Kong,False
+1977-05-30,Mozambique,Cuba,0,2,Friendly,Maputo,Mozambique,False
+1979-08-02,Brazil,Argentina,2,1,Copa América,Rio de Janeiro,Brazil,False
+1967-11-01,Netherlands,Yugoslavia,1,2,Friendly,Rotterdam,Netherlands,False
+2017-01-18,Cameroon,Guinea-Bissau,2,1,African Cup of Nations,Libreville,Gabon,True
+2005-07-12,United States,Costa Rica,0,0,Gold Cup,Foxborough,United States,False
+2008-06-21,Saint Lucia,Guatemala,1,3,FIFA World Cup qualification,Los Angeles,United States,True
+2004-08-18,Jamaica,United States,1,1,FIFA World Cup qualification,Kingston,Jamaica,False
+1997-06-09,Maldives,Syria,0,12,FIFA World Cup qualification,Tehran,Iran,True
+1982-11-14,Togo,Sierra Leone,3,0,African Cup of Nations qualification,Lomé,Togo,False
+2004-01-30,Senegal,Kenya,3,0,African Cup of Nations,Bizerte,Tunisia,True
+2000-06-11,United States,Mexico,3,0,USA Cup,East Rutherford,United States,False
+1967-04-05,German DR,Netherlands,4,3,UEFA Euro qualification,Leipzig,German DR,False
+2001-03-25,Mexico,Jamaica,4,0,FIFA World Cup qualification,Mexico City,Mexico,False
+1972-10-07,Luxembourg,Italy,0,4,FIFA World Cup qualification,Luxembourg,Luxembourg,False
+1946-06-16,Zimbabwe,Zambia,0,4,Friendly,Salisbury,Southern Rhodesia,False
+2013-09-06,Costa Rica,United States,3,1,FIFA World Cup qualification,San José,Costa Rica,False
+2021-09-07,Republic of Ireland,Serbia,1,1,FIFA World Cup qualification,Dublin,Republic of Ireland,False
+1989-06-25,Angola,Cameroon,1,2,FIFA World Cup qualification,Luanda,Angola,False
+1977-11-13,Romania,Yugoslavia,4,6,FIFA World Cup qualification,Bucharest,Romania,False
+2019-03-24,Israel,Austria,4,2,UEFA Euro qualification,Haifa,Israel,False
+2007-03-24,Liechtenstein,Northern Ireland,1,4,UEFA Euro qualification,Vaduz,Liechtenstein,False
+1984-06-07,Liechtenstein,Austria,0,6,Friendly,Vaduz,Liechtenstein,False
+2016-06-02,Laos,India,0,1,AFC Asian Cup qualification,Vientiane,Laos,False
+2013-10-15,Jamaica,Honduras,2,2,FIFA World Cup qualification,Kingston,Jamaica,False
+2021-11-11,Slovakia,Slovenia,2,2,FIFA World Cup qualification,Trnava,Slovakia,False
+1927-05-21,Luxembourg,England,2,5,Friendly,Esch-sur-Alzette,Luxembourg,False
+2009-10-14,Latvia,Moldova,3,2,FIFA World Cup qualification,Riga,Latvia,False
+1994-10-14,Algeria,Sudan,1,1,African Cup of Nations qualification,Algiers,Algeria,False
+1966-08-19,Malaysia,Thailand,0,0,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1976-10-16,Luxembourg,Italy,1,4,FIFA World Cup qualification,Luxembourg,Luxembourg,False
+2011-07-24,Liberia,Gambia,3,2,Friendly,Paynesville,Liberia,False
+1990-10-10,Spain,Iceland,2,1,UEFA Euro qualification,Seville,Spain,False
+1997-10-11,Czech Republic,Slovakia,3,0,FIFA World Cup qualification,Prague,Czech Republic,False
+2007-10-17,France,Lithuania,2,0,UEFA Euro qualification,Nantes,France,False
+2022-09-23,Iran,Uruguay,1,0,Friendly,Sankt Pölten,Austria,True
+1949-04-30,Brazil,Uruguay,5,1,Copa América,Rio de Janeiro,Brazil,False
+2010-10-09,United Arab Emirates,Chile,0,2,Friendly,Abu Dhabi,United Arab Emirates,False
+2018-01-16,Cameroon,Congo,0,1,African Nations Championship,Agadir,Morocco,True
+1992-11-28,Honduras,Saint Vincent and the Grenadines,4,0,FIFA World Cup qualification,Tegucigalpa,Honduras,False
+2017-01-20,Nicaragua,Belize,3,1,UNCAF Cup,Panama City,Panama,True
+1988-06-03,Libya,Burkina Faso,3,0,FIFA World Cup qualification,Tripoli,Libya,False
+2015-09-08,Lebanon,South Korea,0,3,FIFA World Cup qualification,Sidon,Lebanon,False
+2016-06-04,Tanzania,Egypt,0,2,African Cup of Nations qualification,Dar es Salaam,Tanzania,False
+1988-11-16,Saudi Arabia,England,1,1,Friendly,Riyadh,Saudi Arabia,False
+2007-02-07,Albania,North Macedonia,0,1,Friendly,Shkodër,Albania,False
+2009-06-17,South Korea,Iran,1,1,FIFA World Cup qualification,Seoul,South Korea,False
+2017-08-19,India,Mauritius,2,1,Friendly,Bombay,India,False
+2023-03-23,Malaysia,Turkmenistan,1,0,Friendly,Johor Bahru,Malaysia,False
+1958-06-08,Argentina,Germany,1,3,FIFA World Cup,Malmö,Sweden,True
+2010-10-15,British Virgin Islands,Dominica,0,10,CFU Caribbean Cup qualification,San Cristóbal,Dominican Republic,True
+2019-06-08,Turkey,France,2,0,UEFA Euro qualification,Konya,Turkey,False
+1970-08-01,Taiwan,Vietnam Republic,2,1,Merdeka Tournament,Ipoh,Malaysia,True
+1970-04-19,Ghana,Ivory Coast,1,1,Friendly,Accra,Ghana,False
+1992-05-25,Suriname,Guyana,1,1,FIFA World Cup qualification,Paramaribo,Suriname,False
+1993-07-18,Costa Rica,Martinique,3,1,Gold Cup,Mexico City,Mexico,True
+1954-06-20,Germany,Hungary,3,8,FIFA World Cup,Basel,Switzerland,True
+2002-10-16,Germany,Faroe Islands,2,1,UEFA Euro qualification,Hanover,Germany,False
+1975-08-10,Ghana,Ivory Coast,0,0,Friendly,Accra,Ghana,False
+2017-11-14,Senegal,South Africa,2,1,FIFA World Cup qualification,Dakar,Senegal,False
+2008-12-08,Thailand,Laos,6,0,AFF Championship,Phuket,Thailand,False
+2006-06-26,Italy,Australia,1,0,FIFA World Cup,Kaiserslautern,Germany,True
+2016-06-04,Estonia,Latvia,0,0,Baltic Cup,Tallinn,Estonia,False
+2006-06-11,Angola,Portugal,0,1,FIFA World Cup,Cologne,Germany,True
+1963-06-29,Denmark,Albania,4,0,UEFA Euro qualification,Copenhagen,Denmark,False
+1992-11-29,Cyprus,Romania,1,4,FIFA World Cup qualification,Larnaca,Cyprus,False
+1977-01-25,Uganda,Iraq,1,1,Friendly,Kampala,Uganda,False
+1975-06-08,Guinea-Bissau,Gambia,1,0,Friendly,Bissau,Guinea-Bissau,False
+2020-10-14,North Macedonia,Georgia,1,1,UEFA Nations League,Skopje,North Macedonia,False
+2009-11-21,Zambia,North Korea,4,1,Friendly,Lusaka,Zambia,False
+1997-11-16,United States,El Salvador,4,2,FIFA World Cup qualification,Foxborough,United States,False
+2008-06-22,Benin,Niger,2,0,FIFA World Cup qualification,Cotonou,Benin,False
+2013-10-11,Bosnia and Herzegovina,Liechtenstein,4,1,FIFA World Cup qualification,Zenica,Bosnia and Herzegovina,False
+1965-06-02,Venezuela,Peru,3,6,FIFA World Cup qualification,Caracas,Venezuela,False
+2000-03-04,Trinidad and Tobago,Curaçao,5,0,FIFA World Cup qualification,Macoya,Trinidad and Tobago,False
+1960-11-20,Belgium,Switzerland,2,4,FIFA World Cup qualification,Brussels,Belgium,False
+2000-03-26,Tanzania,Malawi,4,3,Friendly,Dar es Salaam,Tanzania,False
+1992-12-19,Gabon,Senegal,3,2,FIFA World Cup qualification,Libreville,Gabon,False
+2000-10-15,Kenya,Tanzania,3,0,Friendly,Nairobi,Kenya,False
+1970-02-07,DR Congo,Ghana,0,2,African Cup of Nations,Wad Madani,Sudan,True
+2016-10-21,Cambodia,Timor-Leste,3,2,AFF Championship,Phnom Penh,Cambodia,False
+2000-03-05,British Virgin Islands,Bermuda,1,5,FIFA World Cup qualification,Road Town,British Virgin Islands,False
+2020-10-11,Israel,Czech Republic,1,2,UEFA Nations League,Haifa,Israel,False
+2008-09-10,Portugal,Denmark,2,3,FIFA World Cup qualification,Lisbon,Portugal,False
+2014-11-06,Qatar,North Korea,3,1,Friendly,Doha,Qatar,False
+2022-11-29,Ecuador,Senegal,1,2,FIFA World Cup,Al Rayyan,Qatar,True
+1978-10-29,Trinidad and Tobago,Haiti,2,2,CFU Caribbean Cup,Port of Spain,Trinidad and Tobago,False
+1976-02-28,Germany,Malta,8,0,UEFA Euro qualification,Dortmund,Germany,False
+2011-03-26,Jordan,Kuwait,1,1,Friendly,Sharjah,United Arab Emirates,True
+1928-11-01,Hungary,Switzerland,3,1,Central European International Cup,Budapest,Hungary,False
+1986-06-06,Brazil,Algeria,1,0,FIFA World Cup,Guadalajara,Mexico,True
+1984-10-22,Saudi Arabia,United Arab Emirates,1,0,AFC Asian Cup qualification,Jeddah,Saudi Arabia,False
+1980-04-26,Yugoslavia,Poland,2,1,Friendly,Borovo,Yugoslavia,False
+2003-07-07,Kiribati,Vanuatu,0,18,South Pacific Games,Lautoka,Fiji,True
+1983-04-16,Czechoslovakia,Cyprus,6,0,UEFA Euro qualification,Prague,Czechoslovakia,False
+2013-03-04,Guam,India,0,4,AFC Challenge Cup qualification,Yangon,Myanmar,True
+1975-12-19,Egypt,Yemen DPR,5,0,Palestine Cup,Tunis,Tunisia,True
+2012-01-23,Morocco,Tunisia,1,2,African Cup of Nations,Libreville,Gabon,True
+1942-01-25,Ecuador,Paraguay,1,3,Copa América,Montevideo,Uruguay,True
+2006-12-01,Tanzania,Djibouti,3,0,CECAFA Cup,Addis Ababa,Ethiopia,True
+1987-03-29,Cameroon,Uganda,5,1,African Cup of Nations qualification,Yaoundé,Cameroon,False
+2008-07-13,Padania,Arameans Suryoye,2,0,Viva World Cup,Gällivare,Sweden,True
+2005-10-12,Italy,Moldova,2,1,FIFA World Cup qualification,Lecce,Italy,False
+2010-10-12,Scotland,Spain,2,3,UEFA Euro qualification,Glasgow,Scotland,False
+1985-06-30,Angola,São Tomé and Príncipe,3,2,Friendly,Praia,Cape Verde,True
+1987-12-15,Tahiti,Vanuatu,2,1,South Pacific Games,Nouméa,New Caledonia,True
+2014-09-06,Singapore,Papua New Guinea,2,1,Friendly,Hougang,Singapore,False
+1981-07-02,Finland,Norway,3,1,Nordic Championship,Helsinki,Finland,False
+2012-06-08,Iraqi Kurdistan,Provence,2,1,Viva World Cup,Duhok,Iraq,False
+2001-04-11,Samoa,Fiji,1,6,FIFA World Cup qualification,Coffs Harbour,Australia,True
+1998-08-16,Angola,Benin,2,0,African Cup of Nations qualification,Luanda,Angola,False
+2016-03-29,Argentina,Bolivia,2,0,FIFA World Cup qualification,Córdoba,Argentina,False
+2004-06-09,Japan,India,7,0,FIFA World Cup qualification,Saitama,Japan,False
+2013-11-27,Zanzibar,South Sudan,2,1,CECAFA Cup,Nairobi,Kenya,True
+1978-02-23,Iraq,Algeria,1,0,Friendly,Baghdad,Iraq,False
+2008-06-13,Netherlands,France,4,1,UEFA Euro,Berne,Switzerland,True
+2020-11-15,Guatemala,Honduras,2,1,Friendly,Guatemala City,Guatemala,False
+2017-03-26,Montenegro,Poland,1,2,FIFA World Cup qualification,Podgorica,Montenegro,False
+2015-11-07,Namibia,Zambia,0,0,Friendly,Luanda,Angola,True
+2019-10-13,Cyprus,Russia,0,5,UEFA Euro qualification,Nicosia,Cyprus,False
+2003-02-12,Georgia,Moldova,2,2,Friendly,Tbilisi,Georgia,False
+2007-10-21,Sri Lanka,Qatar,0,1,FIFA World Cup qualification,Colombo,Sri Lanka,False
+2017-09-05,Philippines,Yemen,2,2,AFC Asian Cup qualification,Bacolod,Philippines,False
+1936-06-19,Egypt,Greece,3,1,Friendly,Cairo,Egypt,False
+2016-08-31,Germany,Finland,2,0,Friendly,Mönchengladbach,Germany,False
+2015-11-12,Afghanistan,Cambodia,3,0,FIFA World Cup qualification,Tehran,Iran,True
+2016-03-24,Saudi Arabia,Malaysia,2,0,FIFA World Cup qualification,Jeddah,Saudi Arabia,False
+1945-01-31,Chile,Colombia,2,0,Copa América,Santiago,Chile,False
+2009-12-22,Catalonia,Argentina,4,2,Friendly,Barcelona,Spain,False
+1980-09-09,Singapore,South Korea,0,2,Friendly,Kallang,Singapore,False
+2013-06-04,Qatar,Iran,0,1,FIFA World Cup qualification,Doha,Qatar,False
+1980-11-09,Bolivia,Uruguay,1,3,Friendly,Cochabamba,Bolivia,False
+1988-11-09,El Salvador,Guatemala,0,0,Friendly,Los Angeles,United States,True
+2006-06-25,England,Ecuador,1,0,FIFA World Cup,Stuttgart,Germany,True
+2023-03-27,Niger,Algeria,0,1,African Cup of Nations qualification,Radès,Tunisia,True
+2013-01-25,Burkina Faso,Ethiopia,4,0,African Cup of Nations,Nelspruit,South Africa,True
+1976-02-08,Congo,Angola,3,2,Friendly,Brazzaville,Congo,False
+2007-09-12,Denmark,Liechtenstein,4,0,UEFA Euro qualification,Aarhus,Denmark,False
+1980-11-30,Honduras,El Salvador,2,0,CONCACAF Championship qualification,Tegucigalpa,Honduras,False
+1995-01-08,Ethiopia,Tanzania,1,0,African Cup of Nations qualification,Addis Ababa,Ethiopia,False
+1999-10-10,Denmark,Iran,0,0,Friendly,Copenhagen,Denmark,False
+1949-06-02,Sweden,Republic of Ireland,3,1,FIFA World Cup qualification,Solna,Sweden,False
+1995-02-23,Hong Kong,South Korea,2,3,Dynasty Cup,Victoria,Hong Kong,False
+2002-09-07,Azerbaijan,Italy,0,2,UEFA Euro qualification,Baku,Azerbaijan,False
+2002-05-14,Saudi Arabia,Senegal,3,2,Friendly,Riyadh,Saudi Arabia,False
+2003-04-30,Honduras,Colombia,0,0,Friendly,Miami,United States,True
+2021-09-03,Tunisia,Equatorial Guinea,3,0,FIFA World Cup qualification,Radès,Tunisia,False
+1955-08-21,Guatemala,Costa Rica,0,2,CCCF Championship,Tegucigalpa,Honduras,True
+2001-07-14,Chile,Venezuela,1,0,Copa América,Barranquilla,Colombia,True
+1978-09-20,Austria,Scotland,3,2,UEFA Euro qualification,Vienna,Austria,False
+1954-06-17,Switzerland,Italy,2,1,FIFA World Cup,Lausanne,Switzerland,False
+2019-07-18,Papua New Guinea,Tonga,8,0,Pacific Games,Apia,Samoa,True
+1973-09-12,Norway,Netherlands,1,2,FIFA World Cup qualification,Oslo,Norway,False
+2015-03-23,Saint Kitts and Nevis,Turks and Caicos Islands,6,2,FIFA World Cup qualification,Basseterre,Saint Kitts and Nevis,False
+2008-06-14,China PR,Iraq,1,2,FIFA World Cup qualification,Tianjin,China PR,False
+2021-03-30,Azerbaijan,Serbia,1,2,FIFA World Cup qualification,Baku,Azerbaijan,False
+2011-07-23,Jordan,Nepal,9,0,FIFA World Cup qualification,Amman,Jordan,False
+1975-03-23,Malaysia,Vietnam Republic,3,0,AFC Asian Cup qualification,Bangkok,Thailand,True
+1930-06-15,Sweden,Switzerland,1,0,Friendly,Stockholm,Sweden,False
+1972-05-19,Thailand,Cambodia,2,2,AFC Asian Cup,Bangkok,Thailand,False
+1996-07-01,Thailand,Singapore,1,1,AFC Asian Cup qualification,Bangkok,Thailand,False
+2008-05-20,Brittany,Congo,3,1,Friendly,Saint-Brieuc,France,False
+2019-06-09,Mexico,Ecuador,3,2,Friendly,Arlington,United States,True
+1996-06-01,Sweden,Belarus,5,1,FIFA World Cup qualification,Solna,Sweden,False
+1970-03-26,Brazil,Chile,2,1,Friendly,Rio de Janeiro,Brazil,False
+2020-10-14,Slovakia,Israel,2,3,UEFA Nations League,Trnava,Slovakia,False
+1972-10-15,Austria,Hungary,2,2,FIFA World Cup qualification,Vienna,Austria,False
+1987-03-28,Botswana,Mauritius,0,0,Friendly,Gaborone,Botswana,False
+2011-09-06,Italy,Slovenia,1,0,UEFA Euro qualification,Florence,Italy,False
+1996-01-05,Trinidad and Tobago,Venezuela,0,0,Friendly,Palo Seco,Trinidad and Tobago,False
+2016-11-15,South Korea,Uzbekistan,2,1,FIFA World Cup qualification,Seoul,South Korea,False
+1997-09-07,India,Bangladesh,3,0,SAFF Cup,Kathmandu,Nepal,True
+1954-01-24,Italy,Egypt,5,1,FIFA World Cup qualification,Milan,Italy,False
+2001-03-28,Switzerland,Luxembourg,5,0,FIFA World Cup qualification,Zürich,Switzerland,False
+2009-03-28,El Salvador,United States,2,2,FIFA World Cup qualification,San Salvador,El Salvador,False
+1982-11-17,Switzerland,Scotland,2,0,UEFA Euro qualification,Berne,Switzerland,False
+2011-07-05,Jordan,Syria,1,3,Friendly,Istanbul,Turkey,True
+2019-06-07,Denmark,Republic of Ireland,1,1,UEFA Euro qualification,Copenhagen,Denmark,False
+1993-06-02,Scotland,Estonia,3,1,FIFA World Cup qualification,Aberdeen,Scotland,False
+2011-09-06,San Marino,Sweden,0,5,UEFA Euro qualification,Serravalle,San Marino,False
+1962-10-18,Greece,Ethiopia,3,2,Friendly,Athens,Greece,False
+2006-09-06,Netherlands,Belarus,3,0,UEFA Euro qualification,Eindhoven,Netherlands,False
+2001-04-24,Venezuela,Colombia,2,2,FIFA World Cup qualification,San Cristóbal,Venezuela,False
+1997-01-25,South Korea,New Zealand,3,1,Friendly,Sydney,Australia,True
+2003-09-10,Albania,Georgia,3,1,UEFA Euro qualification,Tirana,Albania,False
+1940-10-06,Sweden,Denmark,1,1,Friendly,Solna,Sweden,False
+1993-01-30,Peru,Belarus,1,1,Friendly,Lima,Peru,False
+1995-09-06,Spain,Cyprus,6,0,UEFA Euro qualification,Granada,Spain,False
+2013-07-13,United States,Cuba,4,1,Gold Cup,Sandy,United States,False
+2012-06-05,Austria,Romania,0,0,Friendly,Innsbruck,Austria,False
+2015-06-11,Dominican Republic,Belize,1,2,FIFA World Cup qualification,Santo Domingo,Dominican Republic,False
+1971-11-24,Spain,Cyprus,7,0,UEFA Euro qualification,Granada,Spain,False
+2016-07-02,Northern Mariana Islands,Macau,1,3,EAFF Championship,Dededo,Guam,True
+2005-03-26,Costa Rica,Panama,2,1,FIFA World Cup qualification,San José,Costa Rica,False
+2003-07-06,Congo,Mozambique,0,0,African Cup of Nations qualification,Brazzaville,Congo,False
+1957-07-06,United States,Canada,2,3,FIFA World Cup qualification,St. Louis,United States,False
+1996-01-12,Brazil,Canada,4,1,Gold Cup,Los Angeles,United States,True
+2015-09-04,Canada,Belize,3,0,FIFA World Cup qualification,Toronto,Canada,False
+2010-09-04,Thailand,India,1,0,Friendly,Bangkok,Thailand,False
+1967-10-29,El Salvador,Costa Rica,3,1,Friendly,San Salvador,El Salvador,False
+2019-09-10,Moldova,Turkey,0,4,UEFA Euro qualification,Chișinău,Moldova,False
+2016-10-07,Hungary,Switzerland,2,3,FIFA World Cup qualification,Budapest,Hungary,False
+1995-09-06,Lithuania,Ukraine,1,3,UEFA Euro qualification,Vilnius,Lithuania,False
+1965-05-09,Yugoslavia,England,1,1,Friendly,Belgrade,Yugoslavia,False
+1999-06-05,Trinidad and Tobago,Grenada,7,0,CFU Caribbean Cup,Port of Spain,Trinidad and Tobago,False
+1932-10-28,Czechoslovakia,Italy,2,1,Central European International Cup,Prague,Czechoslovakia,False
+1983-03-27,Luxembourg,Hungary,2,6,UEFA Euro qualification,Luxembourg,Luxembourg,False
+2014-03-05,Russia,Armenia,2,0,Friendly,Krasnodar,Russia,False
+2012-09-11,New Zealand,Solomon Islands,6,1,FIFA World Cup qualification,Auckland,New Zealand,False
+2001-09-05,Mexico,Trinidad and Tobago,3,0,FIFA World Cup qualification,Mexico City,Mexico,False
+2008-10-12,Venezuela,Brazil,0,4,FIFA World Cup qualification,San Cristóbal,Venezuela,False
+1975-04-12,Iraq,Saudi Arabia,2,1,AFC Asian Cup qualification,Baghdad,Iraq,False
+2010-06-02,Romania,North Macedonia,0,1,Friendly,Villach,Austria,True
+2001-01-28,Egypt,Morocco,0,0,FIFA World Cup qualification,Cairo,Egypt,False
+2021-07-02,Peru,Paraguay,3,3,Copa América,Goiânia,Brazil,True
+2011-08-10,Kuwait,North Korea,0,0,Friendly,Kuwait City,Kuwait,False
+2021-06-03,Uruguay,Paraguay,0,0,FIFA World Cup qualification,Montevideo,Uruguay,False
+1957-04-28,United States,Mexico,2,7,FIFA World Cup qualification,Long Beach,United States,False
+1982-06-03,Sweden,Russia,1,1,Friendly,Solna,Sweden,False
+1993-09-17,Saudi Arabia,Thailand,4,0,Friendly,Dammam,Saudi Arabia,False
+2013-03-22,Slovenia,Iceland,1,2,FIFA World Cup qualification,Ljubljana,Slovenia,False
+1973-02-25,Morocco,Guinea,2,0,FIFA World Cup qualification,Tétouan,Morocco,False
+2007-12-03,Sudan,Eritrea,1,0,Friendly,Omdurman,Sudan,False
+2003-06-22,France,New Zealand,5,0,Confederations Cup,Saint-Denis,France,False
+2021-11-15,Austria,Moldova,4,1,FIFA World Cup qualification,Klagenfurt,Austria,False
+1930-07-22,Argentina,Chile,3,1,FIFA World Cup,Montevideo,Uruguay,True
+2001-07-13,Guernsey,Ynys Môn,0,0,Island Games,Douglas,Isle of Man,True
+2002-03-01,Iran,Venezuela,1,0,Friendly,Casablanca,Morocco,True
+2017-10-10,Honduras,Mexico,3,2,FIFA World Cup qualification,San Pedro Sula,Honduras,False
+2004-12-21,Venezuela,Guatemala,0,1,Friendly,Caracas,Venezuela,False
+2007-09-08,Venezuela,Paraguay,3,2,Friendly,Puerto Ordaz,Venezuela,False
+1973-09-26,Switzerland,Luxembourg,1,0,FIFA World Cup qualification,Lucerne,Switzerland,False
+2011-03-26,Chad,Botswana,0,1,African Cup of Nations qualification,N'Djamena,Chad,False
+2005-08-13,South Africa,Zambia,2,2,COSAFA Cup,Mafikeng,South Africa,False
+2018-07-02,Belgium,Japan,3,2,FIFA World Cup,Rostov-on-Don,Russia,True
+2006-09-02,Germany,Republic of Ireland,1,0,UEFA Euro qualification,Stuttgart,Germany,False
+2002-01-30,Costa Rica,South Korea,3,1,Gold Cup,Pasadena,United States,True
+2011-10-11,Panama,Nicaragua,5,1,FIFA World Cup qualification,Panama City,Panama,False
+1989-07-15,China PR,Iran,2,0,FIFA World Cup qualification,Shenyang,China PR,False
+1910-11-06,Hungary,Austria,3,0,Friendly,Budapest,Hungary,False
+1993-02-27,Nigeria,Congo,2,0,FIFA World Cup qualification,Enugu,Nigeria,False
+2002-10-16,Bulgaria,Andorra,2,1,UEFA Euro qualification,Sofia,Bulgaria,False
+2000-02-19,Honduras,Peru,3,5,Gold Cup,Miami,United States,True
+1989-10-11,Republic of Ireland,Northern Ireland,3,0,FIFA World Cup qualification,Dublin,Republic of Ireland,False
+2020-10-07,Austria,Greece,2,1,Friendly,Klagenfurt,Austria,False
+1956-11-11,France,Belgium,6,3,FIFA World Cup qualification,Colombes,France,False
+2007-10-15,Macau,Thailand,1,7,FIFA World Cup qualification,Macau,Macau,False
+1999-06-04,Poland,Bulgaria,2,0,UEFA Euro qualification,Warsaw,Poland,False
+2019-01-27,United States,Panama,3,0,Friendly,Glendale,United States,False
+2015-08-05,China PR,North Korea,2,0,EAFF Championship,Wuhan,China PR,False
+1975-09-03,France,Iceland,3,0,UEFA Euro qualification,Nantes,France,False
+1967-11-26,Iran,Turkey,0,1,Friendly,Dhaka,Pakistan,True
+1986-06-17,Italy,France,0,2,FIFA World Cup,Mexico City,Mexico,True
+1999-06-29,Singapore,New Zealand,0,1,Friendly,Singapore,Singapore,False
+1932-03-30,Greece,Bulgaria,2,2,Friendly,Athens,Greece,False
+1993-06-07,India,Bahrain,0,3,FIFA World Cup qualification,Seoul,South Korea,True
+2017-05-25,Ghana,Benin,1,1,Friendly,Accra,Ghana,False
+1992-12-16,Guinea,Sierra Leone,0,0,Friendly,Conakry,Guinea,False
+1986-03-08,Cameroon,Zambia,3,2,African Cup of Nations,Alexandria,Egypt,True
+1980-02-16,Italy,Romania,2,1,Friendly,Naples,Italy,False
+2001-09-05,Cyprus,Portugal,1,3,FIFA World Cup qualification,Larnaca,Cyprus,False
+2015-09-08,Liechtenstein,Russia,0,7,UEFA Euro qualification,Vaduz,Liechtenstein,False
+1980-02-26,Australia,Papua New Guinea,11,2,Oceania Nations Cup,Nouméa,New Caledonia,True
+2011-10-07,Greece,Croatia,2,0,UEFA Euro qualification,Piraeus,Greece,False
+1997-11-16,Uruguay,Ecuador,5,3,FIFA World Cup qualification,Maldonado,Uruguay,False
+1934-02-25,Republic of Ireland,Belgium,4,4,FIFA World Cup qualification,Dublin,Irish Free State,True
+2008-06-08,Sri Lanka,Bangladesh,1,0,SAFF Cup,Colombo,Sri Lanka,False
+1958-06-08,Hungary,Wales,1,1,FIFA World Cup,Sandviken,Sweden,True
+2006-08-12,Hong Kong,Singapore,1,2,Friendly,Victoria,Hong Kong,False
+1936-04-05,Switzerland,Italy,1,2,Friendly,Zürich,Switzerland,False
+2016-10-06,Kosovo,Croatia,0,6,FIFA World Cup qualification,Shkodër,Albania,True
+1975-07-03,China PR,Thailand,2,2,Friendly,Beijing,China PR,False
+1987-10-28,Netherlands,Cyprus,8,0,UEFA Euro qualification,Rotterdam,Netherlands,False
+2001-03-10,Sierra Leone,Sudan,0,2,FIFA World Cup qualification,Freetown,Sierra Leone,False
+1983-09-01,Brazil,Ecuador,5,0,Copa América,Goiânia,Brazil,False
+2019-03-21,Netherlands,Belarus,4,0,UEFA Euro qualification,Rotterdam,Netherlands,False
+2016-10-11,Colombia,Uruguay,2,2,FIFA World Cup qualification,Barranquilla,Colombia,False
+1947-05-04,Republic of Ireland,Portugal,0,2,Friendly,Dublin,Éire,False
+2012-07-05,Saudi Arabia,Iraq,0,1,Arab Cup,Jeddah,Saudi Arabia,False
+2005-09-04,Egypt,Benin,4,1,FIFA World Cup qualification,Cairo,Egypt,False
+1953-03-01,Chile,Uruguay,3,2,Copa América,Lima,Peru,True
+1982-07-11,Italy,Germany,3,1,FIFA World Cup,Madrid,Spain,True
+1970-06-11,Bulgaria,Morocco,1,1,FIFA World Cup,León,Mexico,True
+1927-11-13,Peru,Bolivia,3,2,Copa América,Lima,Peru,False
+1995-06-07,San Marino,Russia,0,7,UEFA Euro qualification,Serravalle,San Marino,False
+2008-09-10,Italy,Georgia,2,0,FIFA World Cup qualification,Udine,Italy,False
+1965-11-01,Italy,Poland,6,1,FIFA World Cup qualification,Rome,Italy,False
+1981-03-01,Finland,Sweden,2,1,Friendly,Lahti,Finland,False
+1996-07-07,Bolivia,Venezuela,6,1,FIFA World Cup qualification,La Paz,Bolivia,False
+2017-12-07,Burundi,Ethiopia,4,1,CECAFA Cup,Kakamega,Kenya,True
+1988-11-29,Saudi Arabia,Tunisia,1,0,Friendly,Khobar,Saudi Arabia,False
+2019-11-19,Mexico,Bermuda,2,1,CONCACAF Nations League,Mexico City,Mexico,False
+2011-06-26,Guernsey,Falkland Islands,5,0,Island Games,Brading,England,True
+2019-07-26,Djibouti,Ethiopia,0,1,African Nations Championship qualification,Djibouti,Djibouti,False
+1992-04-29,El Salvador,Costa Rica,1,1,Friendly,San Salvador,El Salvador,False
+1948-03-10,Wales,Northern Ireland,2,0,British Home Championship,Wrexham,Wales,False
+1974-12-20,Cambodia,Malaysia,0,3,King's Cup,Bangkok,Thailand,True
+1960-07-06,France,Yugoslavia,4,5,UEFA Euro,Paris,France,False
+2008-02-06,Italy,Portugal,3,1,Friendly,Zürich,Switzerland,True
+1996-11-10,Togo,Cameroon,2,4,FIFA World Cup qualification,Lomé,Togo,False
+2005-06-12,Pakistan,India,1,1,Friendly,Quetta,Pakistan,False
+2002-02-13,Cyprus,Czech Republic,3,4,Cyprus International Tournament,Nicosia,Cyprus,False
+2004-09-08,Armenia,Finland,0,2,FIFA World Cup qualification,Yerevan,Armenia,False
+1987-03-28,Nigeria,Togo,2,0,African Cup of Nations qualification,Lagos,Nigeria,False
+2012-09-16,French Guiana,Haiti,1,2,Friendly,Cayenne,French Guiana,False
+2005-10-08,Sudan,Ivory Coast,1,3,FIFA World Cup qualification,Omdurman,Sudan,False
+1981-10-28,Argentina,Poland,1,2,Friendly,Buenos Aires,Argentina,False
+2023-06-16,Antigua and Barbuda,Guadeloupe,0,5,Gold Cup qualification,Fort Lauderdale,United States,True
+2002-09-07,South Korea,North Korea,0,0,Friendly,Seoul,South Korea,False
+1996-11-09,Liechtenstein,North Macedonia,1,11,FIFA World Cup qualification,Eschen,Liechtenstein,False
+2013-06-22,Monaco,Vatican City,2,0,Friendly,Cap-d'Ail,France,True
+1986-06-03,Mexico,Belgium,2,1,FIFA World Cup,Mexico City,Mexico,False
+2013-06-03,Sweden,North Macedonia,1,0,Friendly,Malmö,Sweden,False
+1988-02-16,China PR,India,1,1,AFC Asian Cup qualification,Abu Dhabi,United Arab Emirates,True
+1999-11-25,India,Uzbekistan,2,3,AFC Asian Cup qualification,Abu Dhabi,United Arab Emirates,True
+1985-07-28,Kenya,Uganda,0,1,Friendly,Nairobi,Kenya,False
+1995-11-15,Russia,Finland,3,1,UEFA Euro qualification,Moscow,Russia,False
+2004-07-12,Peru,Colombia,2,2,Copa América,Trujillo,Peru,False
+1995-04-25,Poland,Israel,4,3,UEFA Euro qualification,Zabrze,Poland,False
+2012-05-22,Latvia,Poland,0,1,Friendly,Klagenfurt,Austria,True
+2006-11-24,Guyana,Antigua and Barbuda,6,0,CFU Caribbean Cup qualification,Georgetown,Guyana,False
+1985-12-29,Senegal,Ivory Coast,2,0,Friendly,Dakar,Senegal,False
+1988-02-17,United Arab Emirates,Bangladesh,4,0,AFC Asian Cup qualification,Abu Dhabi,United Arab Emirates,False
+1965-07-25,Ecuador,Colombia,2,0,FIFA World Cup qualification,Guayaquil,Ecuador,False
+2016-06-01,Grenada,Puerto Rico,3,3,CFU Caribbean Cup qualification,St. George's,Grenada,False
+2000-02-02,Cyprus,Lithuania,2,1,Cyprus International Tournament,Limassol,Cyprus,False
+2021-06-12,Saint Kitts and Nevis,El Salvador,0,4,FIFA World Cup qualification,Basseterre,Saint Kitts and Nevis,False
+2023-07-12,United States,Panama,1,1,Gold Cup,San Diego,United States,False
+2018-11-20,United Arab Emirates,Yemen,2,0,Friendly,Dubai,United Arab Emirates,False
+1985-07-08,Malawi,Tanzania,2,0,Friendly,Lilongwe,Malawi,False
+1987-03-01,Guinea,Senegal,1,0,Amílcar Cabral Cup,Conakry,Guinea,False
+1996-09-01,Norway,Georgia,1,0,Friendly,Oslo,Norway,False
+1975-09-03,Northern Ireland,Sweden,1,2,UEFA Euro qualification,Belfast,Northern Ireland,False
+1982-10-06,Czechoslovakia,Sweden,2,2,UEFA Euro qualification,Bratislava,Czechoslovakia,False
+2017-10-06,United States,Panama,4,0,FIFA World Cup qualification,Orlando,United States,False
+2001-05-06,Angola,Cameroon,2,0,FIFA World Cup qualification,Luanda,Angola,False
+2004-06-20,Egypt,Ivory Coast,1,2,FIFA World Cup qualification,Alexandria,Egypt,False
+2004-10-06,Mexico,Saint Vincent and the Grenadines,7,0,FIFA World Cup qualification,Mexico City,Mexico,False
+2003-10-24,Bahrain,Iraq,1,0,AFC Asian Cup qualification,Riffa,Bahrain,False
+1979-08-22,Colombia,Venezuela,4,0,Copa América,Bogotá,Colombia,False
+2007-03-24,Greece,Turkey,1,4,UEFA Euro qualification,Piraeus,Greece,False
+2015-03-27,Slovenia,San Marino,6,0,UEFA Euro qualification,Ljubljana,Slovenia,False
+1995-03-29,Slovakia,Azerbaijan,4,1,UEFA Euro qualification,Košice,Slovakia,False
+2021-10-07,Belgium,France,2,3,UEFA Nations League,Turin,Italy,True
+1990-03-24,Saint Kitts and Nevis,Antigua and Barbuda,3,1,Friendly,Basseterre,Saint Kitts and Nevis,False
+2002-03-25,Sri Lanka,Pakistan,2,1,Friendly,Kalutara,Sri Lanka,False
+2021-06-26,Italy,Austria,2,1,UEFA Euro,London,England,True
+1971-12-19,Niger,Libya,0,1,Friendly,Niamey,Niger,False
+1965-02-07,Cuba,Jamaica,2,1,FIFA World Cup qualification,Havana,Cuba,False
+1981-08-14,Australia,Fiji,10,0,FIFA World Cup qualification,Melbourne,Australia,False
+2015-09-08,Aruba,Saint Vincent and the Grenadines,2,1,FIFA World Cup qualification,Oranjestad,Aruba,False
+1997-09-10,Denmark,Croatia,3,1,FIFA World Cup qualification,Copenhagen,Denmark,False
+1948-05-30,Spain,Republic of Ireland,2,1,Friendly,Barcelona,Spain,False
+1991-09-26,Mali,Tunisia,0,0,Friendly,Alexandria,Egypt,True
+2009-03-28,Colombia,Bolivia,2,0,FIFA World Cup qualification,Bogotá,Colombia,False
+2000-06-11,Tunisia,Senegal,4,1,Friendly,Tunis,Tunisia,False
+2005-03-26,Senegal,Liberia,6,1,FIFA World Cup qualification,Dakar,Senegal,False
+1999-10-02,Namibia,Angola,1,1,COSAFA Cup,Windhoek,Namibia,False
+1927-06-26,Norway,Sweden,3,5,Nordic Championship,Oslo,Norway,False
+2007-09-08,England,Israel,3,0,UEFA Euro qualification,London,England,False
+2002-10-12,North Macedonia,Turkey,1,2,UEFA Euro qualification,Skopje,North Macedonia,False
+1995-04-26,San Marino,Scotland,0,2,UEFA Euro qualification,Serravalle,San Marino,False
+2009-09-05,France,Romania,1,1,FIFA World Cup qualification,Saint-Denis,France,False
+2001-06-02,Estonia,Netherlands,2,4,FIFA World Cup qualification,Tallinn,Estonia,False
+1984-12-08,France,German DR,2,0,FIFA World Cup qualification,Paris,France,False
+1997-07-11,Lithuania,Latvia,1,0,Baltic Cup,Vilnius,Lithuania,False
+2008-09-10,Vanuatu,Fiji,2,1,Oceania Nations Cup,Port Vila,Vanuatu,False
+1992-06-14,Antigua and Barbuda,Bermuda,0,3,FIFA World Cup qualification,St. John's,Antigua and Barbuda,False
+2000-01-26,Guatemala,Panama,1,1,Friendly,Guatemala,Guatemala,False
+1962-05-31,Russia,Yugoslavia,2,0,FIFA World Cup,Arica,Chile,True
+2015-09-03,Qatar,Bhutan,15,0,FIFA World Cup qualification,Doha,Qatar,False
+2009-06-06,United States,Honduras,2,1,FIFA World Cup qualification,Chicago,United States,False
+1967-12-23,Italy,Switzerland,4,0,UEFA Euro qualification,Cagliari,Italy,False
+2011-07-23,Peru,Venezuela,4,1,Copa América,La Plata,Argentina,True
+1963-09-28,Germany,Turkey,3,0,Friendly,Frankfurt am Main,Germany,False
+1995-01-08,Japan,Argentina,1,5,Confederations Cup,Riyadh,Saudi Arabia,True
+1981-02-14,Ecuador,Brazil,0,6,Friendly,Quito,Ecuador,False
+1989-03-08,Bangladesh,Thailand,3,1,FIFA World Cup qualification,Dhaka,Bangladesh,False
+1978-07-16,Malaysia,Thailand,2,0,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+2019-09-10,Zimbabwe,Somalia,3,1,FIFA World Cup qualification,Harare,Zimbabwe,False
+2019-11-14,Maldives,Philippines,1,2,FIFA World Cup qualification,Malé,Maldives,False
+1957-05-08,England,Republic of Ireland,5,1,FIFA World Cup qualification,London,England,False
+1980-04-15,Guatemala,Mexico,2,4,Friendly,Guatemala,Guatemala,False
+1990-12-17,Chad,Gabon,2,1,UDEAC Cup,Brazzaville,Congo,True
+1967-01-22,Chile,Paraguay,4,2,Copa América,Montevideo,Uruguay,True
+1946-01-26,Argentina,Chile,3,1,Copa América,Buenos Aires,Argentina,False
+1969-08-24,Brazil,Venezuela,6,0,FIFA World Cup qualification,Rio de Janeiro,Brazil,False
+1939-05-18,Yugoslavia,England,2,1,Friendly,Belgrade,Yugoslavia,False
+2010-06-25,Chile,Spain,1,2,FIFA World Cup,Pretoria,South Africa,True
+1990-12-19,Spain,Albania,9,0,UEFA Euro qualification,Seville,Spain,False
+2016-03-29,Colombia,Ecuador,3,1,FIFA World Cup qualification,Barranquilla,Colombia,False
+1994-02-08,Malta,Tunisia,1,1,Malta International Tournament,Attard,Malta,False
+2021-10-10,Jamaica,Canada,0,0,FIFA World Cup qualification,Kingston,Jamaica,False
+2007-02-07,Cyprus,Bulgaria,0,3,Cyprus International Tournament,Nicosia,Cyprus,False
+1999-12-16,Greece,Moldova,2,0,Friendly,Lárisa,Greece,False
+1936-09-27,Czechoslovakia,Germany,1,2,Friendly,Prague,Czechoslovakia,False
+2007-04-19,Honduras,Haiti,1,3,Friendly,La Ceiba,Honduras,False
+1977-11-25,Egypt,Tunisia,3,2,FIFA World Cup qualification,Cairo,Egypt,False
+2017-03-24,Spain,Israel,4,1,FIFA World Cup qualification,Gijón,Spain,False
+1964-10-14,Chile,Argentina,1,1,Copa Carlos Dittborn,Santiago,Chile,False
+2014-10-18,Laos,Timor-Leste,2,0,AFF Championship,Vientiane,Laos,False
+1989-10-25,Trinidad and Tobago,Finland,2,0,Friendly,Port of Spain,Trinidad and Tobago,False
+1974-12-16,Cambodia,Vietnam Republic,2,0,King's Cup,Bangkok,Thailand,True
+1982-06-29,Italy,Argentina,2,1,FIFA World Cup,Barcelona,Spain,True
+1980-02-26,New Caledonia,Vanuatu,4,3,Oceania Nations Cup,Nouméa,New Caledonia,False
+2013-12-21,Qatar,Bahrain,1,1,Friendly,Doha,Qatar,False
+1953-10-03,Northern Ireland,Scotland,1,3,FIFA World Cup qualification,Belfast,Northern Ireland,False
+2003-12-30,Bahrain,Yemen,5,1,Gulf Cup,Kuwait City,Kuwait,True
+2022-01-30,Mexico,Costa Rica,0,0,FIFA World Cup qualification,Mexico City,Mexico,False
+2005-10-08,South Africa,DR Congo,2,2,FIFA World Cup qualification,Durban,South Africa,False
+1957-10-13,Chile,Argentina,0,2,FIFA World Cup qualification,Santiago,Chile,False
+1996-01-30,Hong Kong,Philippines,8,0,AFC Asian Cup qualification,Victoria,Hong Kong,False
+1931-09-06,Finland,Norway,4,4,Nordic Championship,Helsinki,Finland,False
+1910-05-29,Chile,Uruguay,0,3,Friendly,Buenos Aires,Argentina,True
+1990-03-28,Hungary,France,1,3,Friendly,Budapest,Hungary,False
+2019-10-10,Russia,Scotland,4,0,UEFA Euro qualification,Moscow,Russia,False
+1997-04-27,Cameroon,Togo,2,0,FIFA World Cup qualification,Yaoundé,Cameroon,False
+2003-02-12,Algeria,Belgium,1,3,Friendly,Annaba,Algeria,False
+1982-02-21,Finland,Sweden,2,1,Friendly,Lahti,Finland,False
+2000-05-05,Guinea,Mali,3,1,Amílcar Cabral Cup,Praia,Cape Verde,True
+2011-06-30,Gotland,Ynys Môn,1,2,Island Games,Freshwater,England,True
+1979-07-26,Liberia,Ghana,3,1,Friendly,Monrovia,Liberia,False
+1924-11-01,Chile,Paraguay,1,3,Copa América,Montevideo,Uruguay,True
+2019-11-17,Costa Rica,Haiti,1,1,CONCACAF Nations League,San José,Costa Rica,False
+1960-03-10,Argentina,Mexico,3,2,Pan American Championship,San José,Costa Rica,True
+1964-11-25,Scotland,Northern Ireland,3,2,British Home Championship,Glasgow,Scotland,False
+2004-10-13,Qatar,Iran,2,3,FIFA World Cup qualification,Doha,Qatar,False
+2014-06-16,Germany,Portugal,4,0,FIFA World Cup,Salvador,Brazil,True
+1935-09-15,Poland,Latvia,3,3,Friendly,Łódź,Poland,False
+2021-11-12,England,Albania,5,0,FIFA World Cup qualification,London,England,False
+1992-09-30,Botswana,Kenya,1,3,Friendly,Gaborone,Botswana,False
+1981-05-27,Czechoslovakia,Iceland,6,1,FIFA World Cup qualification,Bratislava,Czechoslovakia,False
+1982-06-15,Scotland,New Zealand,5,2,FIFA World Cup,Málaga,Spain,True
+1957-05-26,Czechoslovakia,Wales,2,0,FIFA World Cup qualification,Prague,Czechoslovakia,False
+1970-08-16,Japan,Taiwan,3,2,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1961-04-11,Martinique,Guadeloupe,2,2,Friendly,Fort-de-France,Martinique,False
+2006-01-25,Angola,DR Congo,0,0,African Cup of Nations,Cairo,Egypt,True
+2014-09-03,Philippines,Taiwan,5,1,Friendly,Manila,Philippines,False
+1993-05-01,Malaysia,Kuwait,1,1,FIFA World Cup qualification,Kuala Lumpur,Malaysia,False
+2010-11-16,Scotland,Faroe Islands,3,0,Friendly,Aberdeen,Scotland,False
+1997-06-04,Kyrgyzstan,Iran,0,7,FIFA World Cup qualification,Damascus,Syria,True
+1985-04-28,Macau,Hong Kong,0,2,FIFA World Cup qualification,Macau,Macau,False
+2004-02-18,Haiti,Turks and Caicos Islands,5,0,FIFA World Cup qualification,Miami,United States,True
+1962-06-07,Czechoslovakia,Mexico,1,3,FIFA World Cup,Viña del Mar,Chile,True
+1966-07-10,Ethiopia,Sudan,1,1,Friendly,Addis Ababa,Ethiopia,False
+1949-12-11,Netherlands,Denmark,0,1,Friendly,Amsterdam,Netherlands,False
+2001-04-09,Australia,Tonga,22,0,FIFA World Cup qualification,Coffs Harbour,Australia,False
+1967-01-25,Argentina,Venezuela,5,1,Copa América,Montevideo,Uruguay,True
+2014-12-20,Malaysia,Thailand,3,2,AFF Championship,Shah Alam,Malaysia,False
+1996-04-24,Argentina,Bolivia,3,1,FIFA World Cup qualification,Buenos Aires,Argentina,False
+1998-06-16,Brazil,Morocco,3,0,FIFA World Cup,Nantes,France,True
+2012-06-02,Portugal,Turkey,1,3,Friendly,Lisbon,Portugal,False
+2001-01-07,Togo,Burkina Faso,1,1,Friendly,Lomé,Togo,False
+1980-02-27,Solomon Islands,Tahiti,1,12,Oceania Nations Cup,Nouméa,New Caledonia,True
+1950-06-25,Italy,Sweden,2,3,FIFA World Cup,São Paulo,Brazil,True
+2013-10-15,Ghana,Egypt,6,1,FIFA World Cup qualification,Kumasi,Ghana,False
+2016-01-19,Maldives,Nepal,1,4,Friendly,Dhaka,Bangladesh,True
+2021-11-16,Venezuela,Peru,1,2,FIFA World Cup qualification,Caracas,Venezuela,False
+1999-03-27,Northern Ireland,Germany,0,3,UEFA Euro qualification,Belfast,Northern Ireland,False
+2006-04-06,Pakistan,Macau,2,2,AFC Challenge Cup,Dhaka,Bangladesh,True
+1989-06-04,United States,Peru,3,0,Friendly,East Rutherford,United States,False
+1985-04-07,Ivory Coast,Ghana,0,0,FIFA World Cup qualification,Abidjan,Ivory Coast,False
+2004-06-20,Costa Rica,Cuba,1,1,FIFA World Cup qualification,Alajuela,Costa Rica,False
+1990-09-12,Switzerland,Bulgaria,2,0,UEFA Euro qualification,Geneva,Switzerland,False
+2007-10-13,Italy,Georgia,2,0,UEFA Euro qualification,Genoa,Italy,False
+2001-06-04,Japan,Brazil,0,0,Confederations Cup,Kashima,Japan,False
+1993-02-24,Portugal,Italy,1,3,FIFA World Cup qualification,Porto,Portugal,False
+2010-09-03,Moldova,Finland,2,0,UEFA Euro qualification,Chișinău,Moldova,False
+2009-10-14,Greece,Luxembourg,2,1,FIFA World Cup qualification,Athens,Greece,False
+1977-03-20,South Korea,Israel,3,1,FIFA World Cup qualification,Seoul,South Korea,False
+2015-10-07,South Sudan,Mauritania,1,1,FIFA World Cup qualification,Juba,South Sudan,False
+2018-11-15,Luxembourg,Belarus,0,2,UEFA Nations League,Luxembourg City,Luxembourg,False
+1977-04-30,Austria,Malta,9,0,FIFA World Cup qualification,Salzburg,Austria,False
+2011-01-25,Uzbekistan,Australia,0,6,AFC Asian Cup,Doha,Qatar,True
+2000-10-12,Lebanon,Iran,0,4,AFC Asian Cup,Beirut,Lebanon,False
+1977-08-14,Australia,Iran,0,1,FIFA World Cup qualification,Melbourne,Australia,False
+2012-10-16,New Zealand,Tahiti,3,0,FIFA World Cup qualification,Christchurch,New Zealand,False
+1961-10-18,Belgium,France,3,0,Friendly,Brussels,Belgium,False
+2010-05-29,Venezuela,Canada,1,1,Friendly,Mérida,Venezuela,False
+1976-10-31,Guinea,Ghana,2,1,FIFA World Cup qualification,Conakry,Guinea,False
+2021-06-04,Brazil,Ecuador,2,0,FIFA World Cup qualification,Porto Alegre,Brazil,False
+1988-05-05,Mali,Senegal,1,1,Amílcar Cabral Cup,Bissau,Guinea-Bissau,True
+2010-09-07,Germany,Azerbaijan,6,1,UEFA Euro qualification,Cologne,Germany,False
+2021-09-02,Lithuania,Northern Ireland,1,4,FIFA World Cup qualification,Vilnius,Lithuania,False
+1967-02-12,Burkina Faso,Algeria,1,2,African Cup of Nations qualification,Ouagadougou,Upper Volta,False
+1970-02-26,Mexico,Russia,0,0,Friendly,Mexico City,Mexico,False
+2021-03-24,Jordan,Lebanon,1,0,Friendly,Dubai,United Arab Emirates,True
+1972-05-14,Romania,Hungary,2,2,UEFA Euro qualification,Bucharest,Romania,False
+1968-08-24,Indonesia,Western Australia,1,3,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+2019-10-15,Syria,Guam,4,0,FIFA World Cup qualification,Dubai,United Arab Emirates,True
+2009-08-29,India,Syria,0,1,Nehru Cup,New Delhi,India,False
+1959-10-18,Czechoslovakia,Denmark,5,1,UEFA Euro qualification,Brno,Czechoslovakia,False
+1997-05-27,Kuwait,Zambia,2,1,Friendly,Kuwait City,Kuwait,False
+2004-07-17,Colombia,Costa Rica,2,0,Copa América,Trujillo,Peru,True
+2018-10-12,Grenada,Cuba,0,2,CONCACAF Nations League qualification,St. George's,Grenada,False
+1993-01-27,Spain,Mexico,1,1,Friendly,Las Palmas,Spain,False
+2021-07-12,Costa Rica,Guadeloupe,3,1,Gold Cup,Orlando,United States,True
+2011-01-23,Honduras,Costa Rica,2,1,UNCAF Cup,Panama City,Panama,True
+1996-06-09,Denmark,Portugal,1,1,UEFA Euro,Sheffield,England,True
+1985-02-27,Netherlands,Cyprus,7,1,FIFA World Cup qualification,Amsterdam,Netherlands,False
+1978-09-20,Denmark,England,3,4,UEFA Euro qualification,Copenhagen,Denmark,False
+1994-12-14,Moldova,Germany,0,3,UEFA Euro qualification,Chișinău,Moldova,False
+1989-09-05,Czechoslovakia,Romania,2,0,Friendly,Nitra,Czechoslovakia,False
+2000-06-03,Paraguay,Ecuador,3,1,FIFA World Cup qualification,Asunción,Paraguay,False
+2001-04-11,Mexico,Chile,1,0,Friendly,Monterrey,Mexico,False
+1975-08-06,Mexico,German DR,1,0,Friendly,Monterrey,Mexico,False
+2021-09-01,Kazakhstan,Ukraine,2,2,FIFA World Cup qualification,Nur-Sultan,Kazakhstan,False
+1949-02-27,Italy,Portugal,4,1,Friendly,Genoa,Italy,False
+2023-03-24,Nicaragua,Saint Vincent and the Grenadines,4,1,CONCACAF Nations League,Managua,Nicaragua,False
+1980-11-23,Guinea,DR Congo,2,1,Friendly,Conakry,Guinea,False
+2005-03-27,Ivory Coast,Benin,3,0,FIFA World Cup qualification,Abidjan,Ivory Coast,False
+2001-02-19,Saudi Arabia,Vietnam,4,0,FIFA World Cup qualification,Dammam,Saudi Arabia,False
+2010-12-05,Vietnam,Philippines,0,2,AFF Championship,Hanoi,Vietnam,False
